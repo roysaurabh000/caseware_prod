@@ -29,3 +29,5 @@ cd caseware_prod/product-app
 npm install
 ng serve
 ```
+![image](https://github.com/user-attachments/assets/c1947818-6527-4df4-acf7-de2cfb85327b)![image](https://github.com/user-attachments/assets/2baa2a31-81d2-4ac9-ba7f-50e8e36f852c)
+
