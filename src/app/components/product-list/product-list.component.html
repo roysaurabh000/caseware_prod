@@ -1,0 +1,9 @@
+<!-- src/app/components/product-list/product-list.component.html -->
+<div class="product-list">
+    <app-product-card
+      *ngFor="let product of products"
+      [product]="product"
+      (selectProduct)="onProductSelected($event)">
+    </app-product-card>
+  </div>
+  
